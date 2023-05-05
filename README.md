@@ -5,3 +5,20 @@
 ## Vision 
 This study, is aimed to specify the ecotoxicological effect of the drilling fluid pollutants in the soil. It will investigate the tolerance perspectives of soil biochemical activities and show the influence of soil physicochemical and biochemical properties on the biodegradation of drilling fluids.
 with this, we may be directed on which soil type most efficiently promotes the drilling waste biodegradability
+
+## The objectives
+
+   To ascertain the effect of the Drilling fluid pollutant on the Soil physico-chemical properties 
+
+	To ascertain the amount of total petroleum hydrocarbons introduced into the soil due to the presence of the base oil in the pollutant.
+
+	To assay for the activity of Soil enzymes in order to ascertain the possible effect of the drilling fluid pollutants on the soil enzymes.
+
+	To ascertain the amount of Heavy metals possibly introduced by the drilling fluid pollutants.
+
+
+	To ascertain the microbial activity in the soil samples after the period of exposure
+
+	To isolate and identify the drilling fluid degrading organisms in the different soils contaminated with drilling fluid pollutants.
+
+	To ascertain the biochemodynamics of petroleum hydrocarbons in the soil samples (spiked with drilling fluid) as the study period progresses. 
