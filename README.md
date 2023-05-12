@@ -1,8 +1,10 @@
 # Project-Title: Exploring-the-Biodegradability-of-Drilling-Fluids.
 ## Welcome Statement
+I am excited to welcome you to this open repository of our project.
+
 ## Issue on OLS-7 REPOSITORY
 https://github.com/open-life-science/ols-7/issues/29
-I am excited to welcome you to this open repository of our project.
+
 ## Description of Rationale
     For Drilling fluids used in the lubrication of drill bits and well bore,much study has been carried-out on the toxicity and biodegradation activities in the marine environment. However, not much is known of the toxicity studies in terms of the sensitivity or tolerance level in the soil or among soil organisms as the components of the petroleum base are disintegrated.Not much is out there on the biochemodynamics of the drilling fluid components as biodegradation progresses, in the terrestrial environment. Again, with the dearth of studies on biodegradation of drilling fluid in the soil, there is no data to drive decision on which soil type best suits or best supports the biodegradability of drilling fluid. 
 
