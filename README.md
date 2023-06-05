@@ -1,6 +1,8 @@
 # Project-Title: Exploring-the-Biodegradability-of-Drilling-Fluids.
 ## Welcome Statement
-I am excited to welcome you to this open repository of our project.
+Hello,
+I am excited to welcome you to this open repository of our project. I am C. U. Ogbonna, an academic and researcher interested in Environmental pollutants and emerging anthropogenically generated chemical, their toxicological possibilities and remediation pathways.
+All contributors and other potential community members are welcome to contribute and learn from this work. As time goes by, a channel for contributions would be created. But, for now, you can always add your comments or check the project issue link below.
 
 ## Issue on OLS-7 REPOSITORY
 https://github.com/open-life-science/ols-7/issues/29
